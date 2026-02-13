@@ -94,7 +94,7 @@ Austin Ziegler created TableauPaginationExtension.
 [credo]: https://github.com/rrrene/credo
 [dco]: licences/dco.txt
 [exunit]: https://hexdocs.pm/ex_unit/ExUnit.html
-[issues]: https://github.com/halostatue/tableau_paginated_collection_extension/issues
+[issues]: https://github.com/halostatue/tableau_pagination_extension/issues
 [kiro]: https://kiro.dev
 [quokka]: https://github.com/emkguts/quokka
 [tpope-qcm]: https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
